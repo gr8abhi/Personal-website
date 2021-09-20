@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  background-color: #C1FFD7;
+    font-family: 'Arvo', serif;
+}
+.top-cloud{
+  position: relative;
+  left: 200px;
+  top: 10px;
+}
+.bottom-cloud{
+  position: relative;
+  right: 250px;
+}
+.name{
+  color: #66BFBF;
+  font-family: 'Italianno', cursive;
+  font-size: 7rem;
+  margin-bottom: 0;
+}
+.top-container{
+  padding-top: 100px;
+  padding-bottom: 0;
+  line-height: 1;}
+
+.p{
+  font-family: 'Arvo', serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h2{
+  color: #66BFBF;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.middle-container:{
+  padding-top: 100px;
+}
+.skilll-row{
+  width: 50%
+}
